@@ -37,5 +37,5 @@ def main():
     from core.shell import shell
     shell()
 
-if __name__ == '__main__':
+if __Jack__ == '__main__':
     main()
